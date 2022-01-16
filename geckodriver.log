@@ -1,0 +1,44 @@
+1641222279652	geckodriver	INFO	Listening on 127.0.0.1:52869
+1641222282797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52870" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileqGSb6F"
+1641222284821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileqGSb6F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52870/devtools/browser/6cbc3608-3536-4cce-975a-0dfa7a0407f7
+1641222289326	Marionette	INFO	Listening on port 52878
+1641222289888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1641222460820	Marionette	INFO	Stopped listening on port 52878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641222465035	geckodriver	INFO	Listening on 127.0.0.1:53071
+1641222468134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53072" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYYXhlu"
+1641222468876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileYYXhlu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53072/devtools/browser/820c1469-b3c0-4ea1-8389-df4d717d5f75
+1641222473003	Marionette	INFO	Listening on port 53077
+1641222473514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: http://amazing-observers-frontend.herokuapp.com/static/js/main.chunk.js, line 470: TypeError: room.state is undefined
+JavaScript error: http://amazing-observers-frontend.herokuapp.com/static/js/main.chunk.js, line 470: TypeError: room.state is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641223136329	Marionette	INFO	Stopped listening on port 53077
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...
